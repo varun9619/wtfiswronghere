@@ -11,14 +11,14 @@ For all integers between 1 and 99 (include both):
 import conf
 
 def fizzbuzz(max_num):
-    "This method implements FizzBuzz"
+    #"This method implements FizzBuzz"
     
     # adding some redundant declarations on purpose
     # we will make our script 'tighter' in one of coming exercises
     three_mul = 'fizz'
     five_mul = 'buzz'
     num1 = conf.num1
-    num2 = conf.num
+    num2 = conf.num2
     # Google for 'range in python' to see what it does
     for i in range(1,max_num):
         # % or modulo division gives you the remainder 
