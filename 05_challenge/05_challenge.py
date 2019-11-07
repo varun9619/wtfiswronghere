@@ -11,7 +11,7 @@ For all integers between 1 and 99 (include both):
 """
 
 def fizzbuzz(max_num):
-    "This method implements FizzBuzz"
+    #"This method implements FizzBuzz"
     
     # adding some redundant declarations on purpose
     # we will make our script 'tighter' in one of coming exercises
